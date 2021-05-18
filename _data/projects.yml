@@ -1,15 +1,13 @@
 - layout: left
-  name: Hibee
-  link: http://hibee.ml
-  
+  name: Simple Voucher Application
+  link: https://django-voucher.herokuapp.com/  
+
   description: | # this will include new lines to allow paragraphs
-    Lite Web Application for Market Making Operation
-    - Build Binance Futures API connector to enable trading functionality. 
-    - Develop fast websocket streamer to view realtime market data.
-    - Script built-in trading bots with multithreading support.
-    - Develop client side web app using MVC structure with flask, nginx, uwsgi.
-    - Mongo Database for client-server communication while sqlite for computation.
-    
+    Shopping Application with Voucher Function   
+    - Develop interface using bootstrap and javascript. 
+    - Develop API using Django and Django Rest Framework. 
+    - Deploy Backend and Frontend on Heroku.
+   
     
 - layout: left
   name: Algo Box

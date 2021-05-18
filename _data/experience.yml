@@ -1,45 +1,35 @@
 - layout: left
-  company: Pipeline Network Sdn Berhad
+  company: Pipeline Network Sdn Bhd
   #link: boringcompany.com
-  job_title: Developer
+  job_title: Full Stack Web Developer
   dates: November 2020 - Current
   description: | # this will include new lines to allow paragraphs
-    - Develop user-friendly, feature-rich client web application in a full development cycle.
-    - Coordinate closely with analyst, creative team, and product managers to ensure proper implementations of programs and system specifications.
-    - Utilized Django REST Framework to build APIs for both external and internal use with reduced time to ship. 
-    - Build customer-facing web interfaces and components using Angular.
+    - Develop decoupled Role Based Access Control Application using Django(Rest API) and Angular(Interface).
+    - Integrate in-house Web Application with FPX Payment Gateway APIs.
+    - Integrate in-house Web Application with external system(CIMS) via SOAP protocol.
+    - Accelerate development speed using Django Rest Framework to ensure on-time delivery of project.
+    - Transform abstract business logic and specifications into usable applications.
+
+- layout: left
+  company: Pipeline Network Sdn Bhd
+  #link: boringcompany.com
+  job_title: DevOps Engineer
+  dates: April 2021 - Current
+  description: | # this will include new lines to allow paragraphs
+    - Deploy REST APIs and User Interface application on Linux Server, Windows Server and DigitalOcean Platform.
+    - Deploy various database (PostgreSQL, MSSQL, MongoDB) on DigitalOcean Platform and Linux Server.
+    - Write shell script in Linux Server for scheduler process and web worker service.
+    - Secure web application with SSL Certificate installation in Nginx.
+    - Ensure continuous projects deployment for internal and external testing.
     
 - layout: left
-  company: Rivex Market Making Project 
+  company: Rivex Market Making Foundation 
   #link: boringcompany.com
-  job_title: Python Developer and QA (remote)
-  dates: March 2020 - August 2020
+  job_title: Backend Developer 
+  dates: March 2020 - September 2020
   description: | # this will include new lines to allow paragraphs
-    - Develop low latency trading algorithms using python & cython.
-    - Build exchange interface to enable trading and data streaming function via API and Websockets.
+    - Develop low latency multithreaded service worker using python & cython.
+    - API and websocket integration on BitMax Exchange
     - Responsible to manage liquidiy provision bot for market making operation.
-    - Involve in Initial Coin Offering (ICO) and develop strategies to maximise trading profit.  
-    
-    
-- layout: left
-  company: Kenanga Investment Bank Bhd
-  #link: boringcompany.com
-  job_title: Quant Trainee
-  dates: Jan 2020 - May 2020
-  description: | # this will include new lines to allow paragraphs
-    - Work side to side with Kenanga top traders.
-    - Assist daytraders with technical analysis and daily trading plan.
-    - Involve in Alpha Mining by doing strategy development and rigorous backtesting.  
-    - Analyse Malaysia Stocks Data and perform price-volume modelling.
-    
-- layout: left
-  company: BIMB Investment Securities Sdn Bhd
-  #link: boringcompany.com
-  job_title: Research Intern
-  dates: July 2019 - October 2019
-  description: | # this will include new lines to allow paragraphs
-    - Involve in completion of MTAG IPO report.
-    - Develop various web scraper for data collection.    
-    - Develop a python script for Google Map scraper to collect gas station data.
-    - Develop financial model (PE and DCF) to forecast stocks future target price. 
-    
+    - Involve in Initial Coin Offering (ICO).  
+   
