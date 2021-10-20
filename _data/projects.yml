@@ -11,15 +11,15 @@
     - Integrate the system with LibreOffice to generate dynamic reports that allow clients to customise the format of their reports.
     
 - layout: left
-  name: Algo Box
-  link: https://github.com/QuantMis/Algo-Box
-  
+  name: Planetarium Negara Point of Sale
   description: | # this will include new lines to allow paragraphs
-    Trading Automation   
-    - Develop Python based software to automate buying and selling of cryptocurrencies. 
-    - Deploy the software in Linux Server for production mode. 
-    - Implement statistic based strategy using z-score calculation of price change velocity.
-    - Rigorous Back Testing and Forward Testing to verify the strategy probabilities to be profitable
+     Booking system for tickets and facilities, as well as a payment terminal. 
+     - Create a POS system with the Angular Framework and a Rest API built with the Python Django Rest Framework.
+     - Convert several business logics into an useable application, including booking, billing, ticketing, and reporting.
+     - Use the PDFMAKE library to create PDF and Excel purchase reports on a daily basis.
+     - Add a QR code on the ticket so that it can be used in conjunction with the flap barrier to limit access.
+     - Integrate POS system with hardware as thermal printer for printing function.
+     - Compile the application using Electron Framework to create native Windows app.
     
 - layout: left
   name: Neural Network Crypto
