@@ -12,27 +12,23 @@
  - layout: left
    name: Planetarium Negara Point of Sale
    description: | # this will include new lines to allow paragraphs
-    Booking system for tickets and facilities, as well as a payment terminal. 
-    - Create a POS system with the Angular Framework and a Rest API built with the Python Django Rest Framework.
-    - Convert several business logics into an useable application, including booking, billing, ticketing, and reporting.
-    - Use the PDFMAKE library to create PDF and Excel purchase reports on a daily basis.
-    - Add a QR code on the ticket so that it can be used in conjunction with the flap barrier to limit access.
-    - Integrate POS system with hardware as thermal printer for printing function.
-    - Compile the application using Electron Framework to create native Windows app.
+     Booking system for tickets and facilities, as well as a payment terminal. 
+     - Create a POS system with the Angular Framework and a Rest API built with the Python Django Rest Framework.
+     - Convert several business logics into an useable application, including booking, billing, ticketing, and reporting.
+     - Use the PDFMAKE library to create PDF and Excel purchase reports on a daily basis.
+     - Add a QR code on the ticket so that it can be used in conjunction with the flap barrier to limit access.
+     - Integrate POS system with hardware as thermal printer for printing function.
+     - Compile the application using Electron Framework to create native Windows app.
     
  - layout: left
    name: AirSelangor Asset Management System
    description: | # this will include new lines to allow paragraphs
-    RBAC Asset Management System   
-    - Allow AirSelangor employees to register assets, track maintenance, and manage work activities.
-    - Heavily integrated system with multiple microservices and integration points, such as Active Directory for login and the AirSelangor Oracle-based WAMS (Utilities, Work and Asset Management System)
-    - To minimise integration errors,we work closely with customers and third-party vendors to ensure the accuracy of application process flow and data structure.
-    - Develop the API with Python Django Rest Framework and the web interface with Angular Framework.
-    - Write pure php scripts and utilize linux Ubuntu crontab to schedule the data extraction activities from clients SOAP API.
+     RBAC Asset Management System   
+     - Allow AirSelangor employees to register assets, track maintenance, and manage work activities.
+     - Heavily integrated system with multiple microservices and integration points, such as Active Directory for login and the AirSelangor Oracle-based WAMS (Utilities, Work and Asset Management System)
+     - To minimise integration errors,we work closely with customers and third-party vendors to ensure the accuracy of application process flow and data structure.
+     - Develop the API with Python Django Rest Framework and the web interface with Angular Framework.
+     - Write pure php scripts and utilize linux Ubuntu crontab to schedule the data extraction activities from clients SOAP API.
     
 
-
-   
-   
-    
 
