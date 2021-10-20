@@ -1,6 +1,6 @@
 - layout: left
-name: CIDB Qlassic Assessment System
-description: | # this will include new lines to allow paragraphs
+ name: CIDB Qlassic Assessment System
+ description: | # this will include new lines to allow paragraphs
     Assessment Application for CIDB client for construction grading  
     - Develop a content management and administration system for CIDB staff to manage assessment projects using Python Django.
     - Using Ionic Framework, create a mobile interface to assist CIDB officials in conducting on-site assessments.
@@ -10,8 +10,8 @@ description: | # this will include new lines to allow paragraphs
     - Integrate the system with LibreOffice to generate dynamic reports that allow clients to customise the format of their reports.
     
  - layout: left
- name: Planetarium Negara Point of Sale
- description: | # this will include new lines to allow paragraphs
+  name: Planetarium Negara Point of Sale
+  description: | # this will include new lines to allow paragraphs
     Booking system for tickets and facilities, as well as a payment terminal. 
     - Create a POS system with the Angular Framework and a Rest API built with the Python Django Rest Framework.
     - Convert several business logics into an useable application, including booking, billing, ticketing, and reporting.
@@ -21,8 +21,8 @@ description: | # this will include new lines to allow paragraphs
     - Compile the application using Electron Framework to create native Windows app.
     
  - layout: left
- name: AirSelangor Asset Management System
- description: | # this will include new lines to allow paragraphs
+  name: AirSelangor Asset Management System
+  description: | # this will include new lines to allow paragraphs
     RBAC Asset Management System   
     - Allow AirSelangor employees to register assets, track maintenance, and manage work activities.
     - Heavily integrated system with multiple microservices and integration points, such as Active Directory for login and the AirSelangor Oracle-based WAMS (Utilities, Work and Asset Management System)
