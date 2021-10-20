@@ -1,14 +1,14 @@
 - layout: left
-  name: Hibee
-  link: http://hibee.ml
+  name: CIDB Qlassic Assessment System
   
   description: | # this will include new lines to allow paragraphs
-    Lite Web Application to Manage Market Making Bots
-    - Build Binance Futures API connector to enable trading functionality. 
-    - Develop fast websocket streamer to view realtime market data.
-    - Script multiple trading bots with multithreading support.
-    - Develop client side Web Application using MVC structure with Flask, .
-    - Mongo Database  for client-server communication while sqlite for computation.
+    Assessment Application for CIDB client for construction grading  
+    - Develop a content management and administration system for CIDB staff to manage assessment projects using Python Django.
+    - Using Ionic Framework, create a mobile interface to assist CIDB officials in conducting on-site assessments.
+    - Implement offline mode logic in the mobile app to allow CIDB staff to conduct assessments in areas where there is no internet access. 
+    - To avoid severe concerns during the evaluation, provide quick maintenance and bug fixes for the application.
+    - Use SOAP Protocol to connect the system to an external API (CIDB CIMS).
+    - Integrate the system with LibreOffice to generate dynamic reports that allow clients to customise the format of their reports.
     
 - layout: left
   name: Algo Box
