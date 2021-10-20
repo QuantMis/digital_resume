@@ -22,14 +22,12 @@
      - Compile the application using Electron Framework to create native Windows app.
     
 - layout: left
-  name: Neural Network Crypto
-  link: https://github.com/QuantMis/cryptoRNN
-
-    
+  name: AirSelangor Asset Management System
   description: | # this will include new lines to allow paragraphs
-    ML Model for Cryptocurrency Modelling
-    - Utilize Python Keras to develop LSTMs Models and Scipy for data preprocessing. 
-    - Predict the price with high accuracy model with 0.86 accuracy from test data.
-    - Automate data engineering processes such as data extraction, cleansing, shaping and visualisation.
-    - Visualise modelling process and results using plotly with live update features for production mode.
-
+     RBAC Asset Management System   
+     - Allow AirSelangor employees to register assets, track maintenance, and manage work activities.
+     - Heavily integrated system with multiple microservices and integration points, such as Active Directory for login and the AirSelangor Oracle-based WAMS (Utilities, Work and Asset Management System)
+     - To minimise integration errors,we work closely with customers and third-party vendors to ensure the accuracy of application process flow and data structure.
+     - Develop the API with Python Django Rest Framework and the web interface with Angular Framework.
+     - Write pure php scripts and utilize linux Ubuntu crontab to schedule the data extraction activities from clients SOAP API.
+    
