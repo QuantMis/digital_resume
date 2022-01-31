@@ -1,4 +1,14 @@
 - layout: left
+  name: Phymed Radiology System
+  description: | # this will include new lines to allow paragraphs
+     Cloud Based Application for medical purposes in Radiology Field
+     - The system improves diagnosis and learning through interactive medical imaging features for radiology practitioner and students.
+     - Implement Reporting & email functionality for media exchange and communication between users.
+     - Integrate with dcm4che LDAP server for 2D, 3D image & volume rendering from radiology data.
+     - Use Cornerstore.js and Vtk.js on frontend to support interactive medical imaging (zoom, multiple layout viewer, measurement).
+     - Develop the Application REST API using JAVA Spring Boot framework and Web interface using angular framework.
+     
+- layout: left
   name: CIDB Qlassic Assessment System
   
   description: | # this will include new lines to allow paragraphs
@@ -30,4 +40,7 @@
      - To minimise integration errors,we work closely with customers and third-party vendors to ensure the accuracy of application process flow and data structure.
      - Develop the API with Python Django Rest Framework and the web interface with Angular Framework.
      - Write pure php scripts and utilize linux Ubuntu crontab to schedule the data extraction activities from clients SOAP API.
+     
+
+ 
     
