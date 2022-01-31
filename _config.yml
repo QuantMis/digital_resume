@@ -24,16 +24,26 @@ linkedin_username: israaibnusaifullah
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  All-rounder with a passion for technology, knowledgeable in FinTech and Cryptocurrency, with experience ranging from small tech startups to major software house, with a strong development portfolio that includes automation scripting, web application development, defi  and machine learning.
+  Software Developer & Devops Engineer experienced in multiple domain of development such as Fintech, Healthcare, Quality Assessment, Asset Management & Cryptocurrency.
 
-    Highlights: 
-    - Web Application using PHP Laravel
-    - Rest API Development using Django & Django Rest Framework
+    Mobile & Web Development: 
+    - Web Application using PHP Laravel (Monolith)
     - Web Interface Development using Angular
     - Mobile Application Development using Ionic
+    
+    API Development:
+    - Rest API Development using Django, Django Rest Framework, Java Spring Boot, Node Js
     - Payment Gateway API Integration (FPX)
     - REST and SOAP Api Integration
-    - Application Deployment on Linux Server, Windows Server and Platform (DigitalOcean, Laravel Forge)
+    
+    Software Deployment:
+    - Deployment on Linux Server(Ubuntu, Redhat), Windows Server
+    - Deployment on cloud using Platform (DigitalOcean, Laravel Forge)
+    - Database installation and integration with application (MySQL, PostgreSQL, MongoDB, MSSQL)
+    - Disaster recovery setup for application
+    - Nginx webserver & load balancing using nginx
+    - SSL Installation
+
   
 
 # More Section
