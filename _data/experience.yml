@@ -6,7 +6,7 @@
   description: | # this will include new lines to allow paragraphs
     - Build end to end web application using PHP Laravel Framework with MVC Architecture.
     - Develop user-friendly web interface using Angular Framework.
-    - Develop mobile interface using Ionic Framework.
+    - Develop mobile interface using Flutter & Ionic Framework.
     - Develop Rest API using Python Django Framework and PHP Laravel.
     - Integrate in-house Web Application with external system via Rest API & SOAP Protocol..
     - Transform abstract business logic such as billing, score assessment, content management and Point of Sale into usable applications.
