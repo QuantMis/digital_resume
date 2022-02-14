@@ -1,12 +1,12 @@
 - layout: left
-  name: Phymed Radiology System
+  name: Perbadanan Labuan Pengurusan Aset & Stor
   description: | # this will include new lines to allow paragraphs
-     Cloud Based Application for medical purposes in Radiology Field
-     - The system improves diagnosis and learning through interactive medical imaging features for radiology practitioner and students.
-     - Implement Reporting & email functionality for media exchange and communication between users.
-     - Integrate with dcm4che LDAP server for 2D, 3D image & volume rendering from radiology data.
-     - Use Cornerstore.js and Vtk.js on frontend to support interactive medical imaging (zoom, multiple layout viewer, measurement).
-     - Develop the Application REST API using JAVA Spring Boot framework and Web interface using angular framework.
+     Asset management system 
+     - Develop a web and mobile application to enable employees to register, track, manage, and maintain a variety of asset types, both tangible and intangible.
+     - Implement email reporting, notification, audit trail, and QR tagging for each asset, as well as a process approval flow.
+     - Integrate the system with LibreOffice to generate dynamic reports that allow clients to customise their report format.
+     - Add a QR CODE scanner to the mobile app for simple asset tracking & update.
+     - Develop the Web Application & restful API using laravel 8 & Mobile Interface using Flutter.
      
 - layout: left
   name: CIDB Qlassic Assessment System
