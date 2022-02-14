@@ -29,7 +29,7 @@ about_content: | # this will include new lines to allow paragraphs
     Mobile & Web Development: 
     - Web Application using PHP Laravel (Monolith)
     - Web Interface Development using Angular
-    - Mobile Application Development using Ionic
+    - Mobile Application Development using Flutter & Ionic
     
     API Development:
     - Rest API Development using Django, Django Rest Framework, Java Spring Boot, Node Js
